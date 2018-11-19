@@ -1,0 +1,1 @@
+{"errorCode":0,"errorDesc":"","result":{"address":"buQfMnWWXPGwQJfEQaLAZdiCfQLirKFWXoJa","balance":"99999992977143000","nonce":"6","assets":[{"amount":"10000","key":{"code":"TXT","issuer":"buQfMnWWXPGwQJfEQaLAZdiCfQLirKFWXoJa"}}],"priv":{"master_weight":"1","thresholds":{"tx_threshold":"1"}}}}
